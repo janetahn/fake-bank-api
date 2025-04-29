@@ -8,7 +8,7 @@
             "accountLast4": "4321",
             "ownerFirstName": "Emily",
             "ownerLastName": "Johnson",
-            "monthlyLimit": 1000
+            "remainingCredit": 1000
         },
         {
             "accountId": "D7B5670F-6C58-4015-9225-9876543210CD",
@@ -18,7 +18,7 @@
             "accountLast4": "5678",
             "ownerFirstName": "Emily",
             "ownerLastName": "Johnson",
-            "monthlyLimit": 2000
+            "remainingCredit": 2000
         },
         {
             "accountId": "9FAE34CB-5B37-4811-ABCD-EF1234567890",
@@ -28,7 +28,7 @@
             "accountLast4": "9012",
             "ownerFirstName": "Michael",
             "ownerLastName": "Lee",
-            "monthlyLimit": 7500
+            "remainingCredit": 7500
         },
         {
             "accountId": "2C9A8764-AD45-4B56-B7C4-1A2B3C4D5E6F",
@@ -38,7 +38,7 @@
             "accountLast4": "3456",
             "ownerFirstName": "Michael",
             "ownerLastName": "Lee",
-            "monthlyLimit": 500
+            "remainingCredit": 500
         }
     ],
     "paymentHistory": [
