@@ -4,91 +4,91 @@
       "id": 1,
       "title": "Paycheck",
       "amount": 2500.00,
-      "category": "Income",
+      "categoryName": "Income",
       "date": "2025-04-01"
     },
     {
       "id": 2,
       "title": "Rent Payment",
       "amount": -1200.00,
-      "category": "Rent",
+      "categoryName": "Rent",
       "date": "2025-04-03"
     },
     {
       "id": 3,
       "title": "Grocery Store",
       "amount": -85.40,
-      "category": "Groceries",
+      "categoryName": "Groceries",
       "date": "2025-04-05"
     },
     {
       "id": 4,
       "title": "Coffee Shop",
       "amount": -4.75,
-      "category": "Food",
+      "categoryName": "Food",
       "date": "2025-04-06"
     },
     {
       "id": 5,
       "title": "Gas Station",
       "amount": -52.30,
-      "category": "Transport",
+      "categoryName": "Transport",
       "date": "2025-04-07"
     },
     {
       "id": 6,
       "title": "Streaming Service",
       "amount": -12.99,
-      "category": "Entertainment",
+      "categoryName": "Entertainment",
       "date": "2025-04-08"
     },
     {
       "id": 7,
       "title": "Freelance Project",
       "amount": 600.00,
-      "category": "Income",
+      "categoryName": "Income",
       "date": "2025-04-09"
     },
     {
       "id": 8,
       "title": "Electric Bill",
       "amount": -90.25,
-      "category": "Utilities",
+      "categoryName": "Utilities",
       "date": "2025-04-10"
     },
     {
       "id": 9,
       "title": "Gym Membership",
       "amount": -45.00,
-      "category": "Health",
+      "categoryName": "Health",
       "date": "2025-04-11"
     },
     {
       "id": 10,
       "title": "Bookstore",
       "amount": -22.50,
-      "category": "Education",
+      "categoryName": "Education",
       "date": "2025-04-12"
     },
     {
       "id": 11,
       "title": "Supermarket",
       "amount": -55.80,
-      "category": "Groceries",
+      "categoryName": "Groceries",
       "date": "2025-04-13"
     },
     {
       "id": 12,
       "title": "Restaurant",
       "amount": -60.00,
-      "category": "Food",
+      "categoryName": "Food",
       "date": "2025-04-14"
     },
     {
       "id": 13,
       "title": "Rent Payment",
       "amount": -1200.00,
-      "category": "Rent",
+      "categoryName": "Rent",
       "date": "2025-04-15"
     }
   ],
