@@ -94,35 +94,35 @@
   ],
   "categories": [
     {
-      "category": "Rent",
+      "categoryName": "Rent",
       "limit": 1500.00
     },
     {
-      "category": "Groceries",
+      "categoryName": "Groceries",
       "limit": 200.00
     },
     {
-      "category": "Food",
+      "categoryName": "Food",
       "limit": 100.00
     },
     {
-      "category": "Transport",
+      "categoryName": "Transport",
       "limit": 100.00
     },
     {
-      "category": "Entertainment",
+      "categoryName": "Entertainment",
       "limit": 50.00
     },
     {
-      "category": "Health",
+      "categoryName": "Health",
       "limit": 60.00
     },
     {
-      "category": "Utilities",
+      "categoryName": "Utilities",
       "limit": 100.00
     },
     {
-      "category": "Education",
+      "categoryName": "Education",
       "limit": 50.00
     }
   ]
