@@ -1,0 +1,145 @@
+{
+    "creditAccounts": [
+        {
+            "accountId": "B4A1B876-F293-4F78-8F2F-1234567890AB",
+            "alias": "Groceries Card",
+            "accountStatus": "active",
+            "accountType": "virtual",
+            "accountLast4": "4321",
+            "ownerFirstName": "Emily",
+            "ownerLastName": "Johnson",
+            "monthlyLimit": 1000
+        },
+        {
+            "accountId": "D7B5670F-6C58-4015-9225-9876543210CD",
+            "alias": "Travel Card",
+            "accountStatus": "inactive",
+            "accountType": "physical",
+            "accountLast4": "5678",
+            "ownerFirstName": "Emily",
+            "ownerLastName": "Johnson",
+            "monthlyLimit": 2000
+        },
+        {
+            "accountId": "9FAE34CB-5B37-4811-ABCD-EF1234567890",
+            "alias": "Business Expenses",
+            "accountStatus": "active",
+            "accountType": "virtual",
+            "accountLast4": "9012",
+            "ownerFirstName": "Michael",
+            "ownerLastName": "Lee",
+            "monthlyLimit": 7500
+        },
+        {
+            "accountId": "2C9A8764-AD45-4B56-B7C4-1A2B3C4D5E6F",
+            "alias": "Backup Card",
+            "accountStatus": "frozen",
+            "accountType": "physical",
+            "accountLast4": "3456",
+            "ownerFirstName": "Michael",
+            "ownerLastName": "Lee",
+            "monthlyLimit": 500
+        }
+    ],
+    "paymentHistory": [
+        {
+            "paymentAmount": -50.25,
+            "accountId": "B4A1B876-F293-4F78-8F2F-1234567890AB",
+            "paymentStatus": "pending",
+            "initiatedAt": "2025-03-10T09:15:00Z",
+            "completedAt": null,
+            "merchantName": "Whole Foods",
+            "merchantLogoUrl": "https://example.com/wholefoods.png"
+        },
+        {
+            "paymentAmount": -89.99,
+            "accountId": "B4A1B876-F293-4F78-8F2F-1234567890AB",
+            "paymentStatus": "pending",
+            "initiatedAt": "2025-03-11T14:45:00Z",
+            "completedAt": null,
+            "merchantName": "Trader Joe's",
+            "merchantLogoUrl": "https://example.com/traderjoes.png"
+        },
+        {
+            "paymentAmount": -200.00,
+            "accountId": "B4A1B876-F293-4F78-8F2F-1234567890AB",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-05T11:00:00Z",
+            "completedAt": "2025-03-06T08:30:00Z",
+            "merchantName": "Costco",
+            "merchantLogoUrl": "https://example.com/costco.png"
+        },
+        {
+            "paymentAmount": -1800.50,
+            "accountId": "B4A1B876-F293-4F78-8F2F-1234567890AB",
+            "paymentStatus": "failed",
+            "initiatedAt": "2025-03-12T18:00:00Z",
+            "completedAt": null,
+            "merchantName": "Target",
+            "merchantLogoUrl": "https://example.com/target.png"
+        },
+        {
+            "paymentAmount": -15.20,
+            "accountId": "D7B5670F-6C58-4015-9225-9876543210CD",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-08T08:45:00Z",
+            "completedAt": "2025-03-08T09:00:00Z",
+            "merchantName": "Starbucks 22nd St",
+            "merchantLogoUrl": "https://example.com/starbucks.png"
+        },
+        {
+            "paymentAmount": -7.80,
+            "accountId": "D7B5670F-6C58-4015-9225-9876543210CD",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-09T10:20:00Z",
+            "completedAt": "2025-03-09T10:40:00Z",
+            "merchantName": "Dunkin Donuts",
+            "merchantLogoUrl": "https://example.com/dunkin.png"
+        },
+        {
+            "paymentAmount": -22.00,
+            "accountId": "D7B5670F-6C58-4015-9225-9876543210CD",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-10T07:10:00Z",
+            "completedAt": "2025-03-10T07:30:00Z",
+            "merchantName": "McDonald's",
+            "merchantLogoUrl": "https://example.com/mcdonalds.png"
+        },
+        {
+            "paymentAmount": -1300.00,
+            "accountId": "9FAE34CB-5B37-4811-ABCD-EF1234567890",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-01T12:00:00Z",
+            "completedAt": "2025-03-01T14:00:00Z",
+            "merchantName": "Amazon Web Services",
+            "merchantLogoUrl": "https://example.com/aws.png"
+        },
+        {
+            "paymentAmount": -2200.75,
+            "accountId": "9FAE34CB-5B37-4811-ABCD-EF1234567890",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-02T09:00:00Z",
+            "completedAt": "2025-03-02T12:00:00Z",
+            "merchantName": "Google Cloud",
+            "merchantLogoUrl": "https://example.com/gcloud.png"
+        },
+        {
+            "paymentAmount": 25.00,
+            "accountId": "9FAE34CB-5B37-4811-ABCD-EF1234567890",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-03T10:10:00Z",
+            "completedAt": "2025-03-03T12:10:00Z",
+            "merchantName": "AWS Refund",
+            "merchantLogoUrl": "https://example.com/aws.png"
+        },
+        {
+            "paymentAmount": 80.00,
+            "accountId": "9FAE34CB-5B37-4811-ABCD-EF1234567890",
+            "paymentStatus": "completed",
+            "initiatedAt": "2025-03-04T11:11:00Z",
+            "completedAt": "2025-03-04T12:12:00Z",
+            "merchantName": "Business Reimbursement",
+            "merchantLogoUrl": "https://example.com/business.png"
+        }
+    ]
+}
